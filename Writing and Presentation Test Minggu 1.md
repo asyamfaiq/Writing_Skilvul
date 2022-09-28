@@ -276,6 +276,6 @@ Flexbox adalah suatu cara untuk mengatur layout atau tata letak secara box per b
   ```
 - Output dalam <strong>console</strong>
   ```
-  Bimo
+  Faiq
   nama saya Faiq
   ```
