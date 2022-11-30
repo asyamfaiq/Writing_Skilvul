@@ -198,7 +198,7 @@ Pada programming object adalah sebuah tipe data pada variabel yg menyimpan prope
 - Saat pemanggilan properti object dapat menggunakan bracket notation
     ```
     let person = {
-        name : 'Chaca',
+        name : 'caca',
         age : 22,
         'current address': 'Malang','JawaTimur'
     }
@@ -209,7 +209,7 @@ Pada programming object adalah sebuah tipe data pada variabel yg menyimpan prope
   - Object dapat menambah key dan value baru
     ```
     let person = {
-        name : 'Chaca',
+        name : 'caca',
         age : 22,
         isVerified: true
     }
@@ -219,7 +219,7 @@ Pada programming object adalah sebuah tipe data pada variabel yg menyimpan prope
 - Delete object properti
     ```
     let person = {
-        name : 'Chaca',
+        name : 'caca',
         age : 22,
         isVerified: true
     }
@@ -476,7 +476,7 @@ Pada programming object adalah sebuah tipe data pada variabel yg menyimpan prope
     if (id !== "" && id !== undefined) {
       reesolve (id);
     } else {
-      reject ("ID Harus di Isi");
+      reject ("ID Harus terisi");
         }
     });
     }
